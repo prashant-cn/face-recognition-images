@@ -20,7 +20,8 @@ Initialize npm and get all the required npm packages for the project.
 <b>Note:</b>
 For best performance, if you have a dedicated graphic card on your system enable that to be used by your browser. By defualt browser uses the internal graphic of the system which might not work best for this app.
 
-
+<b>Output</b>
+<img src='Test Images/result.png' alt="Face Recognition in images using Javascript, NodeJS and face-api.js">
 
 Ping me at https://www.linkedin.com/in/prashant-kumar-2124b3b4/
 if any of you have any questions, suggestions, feedback or just want to say Hi:)
